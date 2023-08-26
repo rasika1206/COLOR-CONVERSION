@@ -6,19 +6,21 @@ To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
-<br>
+<br> Import opencv.
+
+
 
 ### Step2:
-<br>
+<br> Read the original Image.
 
 ### Step3:
 <br>
-
+Store the required conversion of the image in a variable.
 ### Step4:
-<br>
+<br> Show the image stored in the given variable.
 
 ### Step5:
-<br>
+<br> Destroy all the windows and end the program.
 
 ## Program:
 ```python
