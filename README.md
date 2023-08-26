@@ -1,4 +1,4 @@
-![image](https://github.com/rasika1206/COLOR-CONVERSION/assets/124434806/fe17bdcd-f38c-4b0a-8faa-0b77b894b295)# COLOR-CONVERSION
+# COLOR-CONVERSION
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
@@ -108,23 +108,28 @@ cv2.destroyAllWindow
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
+<br> ![tvd1](https://github.com/rasika1206/COLOR-CONVERSION/assets/124434806/c67e0aaf-c04d-42dc-aea5-a237979a5d4c)
+
 <br>
 
 ### ii) HSV to RGB and BGR
-<br>
+<br> ![tvd2](https://github.com/rasika1206/COLOR-CONVERSION/assets/124434806/ad118213-6f01-47bd-b736-9afedf3a3759)
+
 <br>
 
 ### iii) RGB and BGR to YCrCb
-<br>
+<br> ![tvd3](https://github.com/rasika1206/COLOR-CONVERSION/assets/124434806/891edeb7-1398-4a26-a63c-6a490a165b6d)
+
 <br>
 
 ### iv) Split and merge RGB Image
-<br>
+<br> ![tvd4](https://github.com/rasika1206/COLOR-CONVERSION/assets/124434806/b70c607c-673f-4385-8a19-fb3d09c6b431)
+
 <br>
 
 ### v) Split and merge HSV Image
-<br>
+<br> ![tvd5](https://github.com/rasika1206/COLOR-CONVERSION/assets/124434806/fa3aa6eb-9224-4445-b42d-13a9c5e5fd1b)
+
 <br>
 
 
